@@ -4,7 +4,7 @@
 # NFS health monitor plugin for Nagios
 # 
 # Written by         	: Steve Bosek (steve.bosek@gmail.com)
-# Modified by           : Lucas Halbert
+# Modified by           : Lucas Halbert <contactme@lhalbert.xyz>
 # Release               : 1.1
 # Creation date		    : 8 May 2009
 # Revision date         : 15 Jan 2019
