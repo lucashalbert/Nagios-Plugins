@@ -3,7 +3,7 @@ print_version() {
     cat <<EOF
 ####################################################################################
 #
-#  Author:         Lucas Halbert <https://www.lhalbert.xyz>
+#  Author:         Lucas Halbert <contactme@lhalbert.xyz>
 #  Date:           06/19/2018
 #  Last Edited:    06/19/2018
 #  Version:        2018.06.19
